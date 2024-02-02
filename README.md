@@ -1,2 +1,2 @@
 # shell_scripts
-bash.
+bash + python
